@@ -2,6 +2,11 @@
   "name": "family-board",
   "version": "0.1.0",
   "private": true,
+  "description": "title",
+  "license": "ISC",
+  "author": "Steff Van Weereld",
+  "type": "commonjs",
+  "main": "index.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
